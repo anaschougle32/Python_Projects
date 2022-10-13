@@ -98,5 +98,5 @@ clear_button=Button(root,text="Clear",font=("Helvetica",10),command=clear,width=
 clear_button.grid(row=1,column=1)
 
 
-#main execution function
+#main execution 
 root.mainloop()
